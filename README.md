@@ -1,6 +1,5 @@
 
--GIt
-    basics:
+**GIt** 
     
     https://www.linkedin.com/learning/git-essential-training-the-basics/use-git-version-control-software-to-manage-project-code?autoplay=true&u=76845844
     
